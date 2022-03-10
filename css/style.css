@@ -1,0 +1,22 @@
+body{
+    background: url("../img/fundo2.png") repeat-x;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+#main{
+    margin: 0 240px;
+}
+#logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 97px;
+}
+
+#logo .diff{
+    margin-left: 10px;
+}
+
+.center{
+   text-align: center;
+}
